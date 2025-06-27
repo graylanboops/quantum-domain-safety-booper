@@ -4,3 +4,4 @@ pennylane==0.36.0
 cryptography==42.0.5
 psutil==5.9.8
 tk
+dnslib==0.9.26
