@@ -1,8 +1,4 @@
-Sure! Here's a `README.md` for your **Quantum DNS Resolver with GPT‑4o and Hypertime Risk Scan**:
 
----
-
-````markdown
 # 🔐 Quantum DNS Resolver — Hypertime Risk Scanner
 
 A powerful DNS proxy that uses **quantum-inspired analysis** and **GPT-4o** LLM classification to determine whether a domain is `SAFE` or `UNSAFE`, in real time.
@@ -127,8 +123,7 @@ Built with ❤️ for deep risk intelligence and post-classical DNS security.
 
 ## 📜 License
 
-MIT License
-
+GPL3
 ```
 
 ---
