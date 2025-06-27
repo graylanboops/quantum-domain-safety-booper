@@ -124,9 +124,4 @@ Built with ❤️ for deep risk intelligence and post-classical DNS security.
 ## 📜 License
 
 GPL3
-```
 
----
-
-Let me know if you’d like to generate a GitHub repository template with this layout automatically.
-```
