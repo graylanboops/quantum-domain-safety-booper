@@ -98,8 +98,9 @@ The LLM responds with a single word: `SAFE` or `UNSAFE`.
 ## 📁 Structure
 
 ```
-quantum_dns_resolver.py  # Main application
+main.py  # Main application
 README.md                # This file
+requirements.txt # Required Python Packages
 ```
 
 ---
